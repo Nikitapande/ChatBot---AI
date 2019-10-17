@@ -13,12 +13,12 @@ AI Based Chatbot
 
 2. Install the required packages.
     ```bash
-    pip install -r requirements.txt
+        pip install -r requirements.txt
     ```
 
 3. Run the python server.
     ```bash
-    python main.py
+        python main.py
     ```
 4. Open **http://127.0.0.1:5000** in your browser.
 
@@ -29,4 +29,5 @@ AI Based Chatbot
 
 ## Author
 
-[Arya Soni](http://www.aryasoni.xyz)
+[Arya Soni](https://aryasoni98.github.io)
+[Nikita Pande]
